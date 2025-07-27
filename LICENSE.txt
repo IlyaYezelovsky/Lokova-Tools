@@ -1,0 +1,3 @@
+The CODE part of the program is licensed under MIT License.
+
+The CONTENTS in "Lokova Metropolis" series part is lincensed under CC BY-NC-ND 4.0.
